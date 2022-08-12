@@ -10,7 +10,7 @@ W. Avy wanted more information about temperature trends, specifically, he wants 
 
 - Standard deviation is 3.25 for June and 3.74 for December. 
 
-![June_Temps]() ![December_Temps]()
+![June_Temps](https://github.com/pcar22/surfs_up/blob/main/Resources/June_Temps.png) ![December_Temps](https://github.com/pcar22/surfs_up/blob/main/Resources/December_Temps.png)
 
 
 
